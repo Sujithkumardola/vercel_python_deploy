@@ -6,4 +6,3 @@ app = Flask(__name__)
 def home():
     return "200"
 
-app.run(debug=True)
